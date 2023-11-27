@@ -186,6 +186,7 @@ nav ul li a:hover::after{
     box-shadow: 0px 0px 20px aqua;
 }
 .edu-content h2{
+
     width: 25rem;
     font-size: 1.2rem;
 
@@ -225,7 +226,12 @@ nav ul li a:hover::after{
     color: deeppink;
     transform: translateY(-5px);
 }
+*{
+    text-decoration: none;
+}
 .btn.btn2{
+    padding: 15px;
+    margin-top: 20px;
     display: inline-block;
     background:violet;    
 }
